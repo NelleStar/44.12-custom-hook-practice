@@ -1,0 +1,16 @@
+.Clicker-light {
+    background-color: rgb(141, 170, 196);
+}
+
+.Clicker-dark {
+    background-color: rgb(8, 8, 55);
+}
+
+.Clicker-dark button {
+    background: rgb(141, 170, 196);
+}
+
+.Clicker-light button {
+    background-color: rgb(8, 8, 55);
+    color: white;
+}
